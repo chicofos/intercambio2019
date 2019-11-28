@@ -1,0 +1,28 @@
+.item{
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: unset;
+    border-color: gray;
+}
+
+.add{
+    text-align: center;
+    padding-top: 16px;
+}
+
+.input{
+    align-items: center;
+}
+
+.item-display{
+    display: list-item;  
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+
+.list-group-item{
+    margin-top:20px;
+    border-bottom-left-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+}
